@@ -97,3 +97,15 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# AI Commit Message Generate
+*.bak
+Tools/CommitMessage/venv
+Tools/CommitMessage/commit_message.txt
+Tools/CommitMessage/.env
+*.env
+ProfilerCaptures
+Documents/Sample
+Assets/SceneDependencyCache
+Assets/SceneDependencyCache.meta
+.idea
